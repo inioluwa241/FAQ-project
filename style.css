@@ -109,10 +109,6 @@ body {
   .faqs h4 {
     width: 90%;
   }
-
-  .faqs h4:hover {
-    color: hsl(276, 90%, 40%);
-  }
 }
 
 .js-hover-class {
